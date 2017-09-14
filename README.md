@@ -4,7 +4,7 @@ ESPino32 Fritzing Part คือ Modelของบอร์ด ESPino32 ที�
  รูปภาพแผนผังการต่อวงจร สามารถสร้างได้สะดวกมากขึ้น
 ## วิธีติดตั้ง ESPino32 Fritzing Part
  
-1. Copy File ESPino32.fzpz ไปยัง -->C:\Users\[computer name]\Documents\Fritzing\parts\user
+1. Copy File ESPino32.fzpz ไปยัง -->C:\Users\computer name\Documents\Fritzing\parts\user
  
 2. เปิด Program Fritzing ขึ้นมา
  
@@ -17,7 +17,7 @@ ESPino32 Fritzing Part คือ Modelของบอร์ด ESPino32 ที�
  ![Pin Functions](DOC/import.jpg)
 
 
-5. เลือก File ESPino32.fzpz ที่ -->C:\Users\[computer name]\Documents\Fritzing\parts\user และ คลิกOPEN
+5. เลือก File ESPino32.fzpz ที่ -->C:\Users\computer name\Documents\Fritzing\parts\user และ คลิกOPEN
  
 ![Pin Functions](DOC/selfile.jpg)
 
