@@ -26,3 +26,4 @@ ESPino32 Fritzing Part คือ Modelของบอร์ด ESPino32 ที�
 
 7. สามารถวาดผังวงจรตามต้องการ
 ![Pin Functions](DOC/show.jpg)
+![Pin Functions](DOC/ShowESPino.jpg)
